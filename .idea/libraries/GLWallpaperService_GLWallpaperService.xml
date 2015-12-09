@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GLWallpaperService.GLWallpaperService">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GLWallpaperService/GLWallpaperService.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

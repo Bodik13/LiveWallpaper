@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/build/intermediates/res/merged/release/layout/settings.xml",
+        "source": "/home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/res/layout/settings.xml"
+    },
+    {
+        "merged": "/home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/build/intermediates/res/merged/release/layout/about.xml",
+        "source": "/home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/build/intermediates/res/merged/release/layout/settings_row.xml",
+        "source": "/home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/res/layout/settings_row.xml"
+    },
+    {
+        "merged": "/home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/build/intermediates/res/merged/release/layout/license.xml",
+        "source": "/home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/res/layout/license.xml"
+    },
+    {
+        "merged": "/home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/build/intermediates/res/merged/release/layout/preference_slider.xml",
+        "source": "/home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/res/layout/preference_slider.xml"
+    }
+]

@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:2:1-48:12
+	xmlns:android
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:3:4-52
+		INJECTED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:5:4-31
+		INJECTED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:4:4-27
+		INJECTED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:7:3-10:9
+	android:targetSdkVersion
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:9:7-35
+		INJECTED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:8:7-32
+		INJECTED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml
+uses-feature#android.software.live_wallpaper
+ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:11:3-66
+	android:name
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:11:17-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:12:3-79
+	android:name
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:12:20-76
+application
+ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:13:3-47:17
+	android:label
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:14:7-39
+	android:icon
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:15:7-36
+service#ffvideolivewallpaper.frankandrobot.com.VideoLiveWallpaper
+ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:17:5-25:15
+	android:label
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:18:2-35
+	android:permission
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:20:2-56
+	android:name
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:19:2-36
+intent-filter#android.service.wallpaper.WallpaperService
+ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:21:7-23:23
+action#android.service.wallpaper.WallpaperService
+ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:22:2-70
+	android:name
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:22:10-67
+meta-data#android.service.wallpaper
+ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:24:7-95
+	android:resource
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:24:59-92
+	android:name
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:24:18-58
+activity#ffvideolivewallpaper.frankandrobot.com.VideoLiveWallpaper
+ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:27:5-30:16
+	android:label
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:29:2-34
+	android:name
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:28:2-35
+activity#ffvideolivewallpaper.frankandrobot.com.VideoWallpaperSettings
+ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:31:5-34:16
+	android:label
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:32:8-40
+	android:exported
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:33:8-31
+	android:name
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:31:15-53
+activity#ffvideolivewallpaper.frankandrobot.com.About
+ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:35:5-38:16
+	android:label
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:36:8-40
+	android:exported
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:37:8-31
+	android:name
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:35:15-36
+activity#ffvideolivewallpaper.frankandrobot.com.License
+ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:39:5-42:16
+	android:label
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:40:8-40
+	android:exported
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:41:8-31
+	android:name
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:39:15-38
+activity#ffvideolivewallpaper.frankandrobot.com.SelectVideo
+ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:43:5-46:16
+	android:label
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:44:8-40
+	android:exported
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:45:8-31
+	android:name
+		ADDED from /home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/AndroidManifest.xml:43:15-42

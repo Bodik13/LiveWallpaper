@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/build/intermediates/res/merged/debug/xml/wallpaper.xml",
+        "source": "/home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/res/xml/wallpaper.xml"
+    },
+    {
+        "merged": "/home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/build/intermediates/res/merged/debug/xml/video_settings.xml",
+        "source": "/home/joker/AndroidStudioProjects/FFvideoLiveWallpaper-master1/app/src/main/res/xml/video_settings.xml"
+    }
+]
